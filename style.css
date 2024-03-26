@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#btn{
+    background-color: rgb(220, 145, 220);
+    padding: 15px 32px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 40vh 90vh;
+
+}
